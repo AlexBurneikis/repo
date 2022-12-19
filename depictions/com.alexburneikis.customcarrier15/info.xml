@@ -11,7 +11,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>A tweak to change Carrier Display</shortDescription>
+	<shortDescription>Changes carrier text.</shortDescription>
 	<descriptionlist>
 		<description>Two settings are included: Enabled(toggle) and Carrier Text(input)</description>
 	</descriptionlist>
