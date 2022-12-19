@@ -5,30 +5,24 @@
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
+			<maxOs>15.1.1</maxOs>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>A tweak to change Carrier Display</shortDescription>
-	<descriptionlist>
-		<description>Two Settings:</description>
-        <description>Enabled</description>
-        <description>Text</description>
-	</descriptionlist>
-    <screenshots>
-        <screenshot>
-			<image>lockscreen.jpg</image>
-		</screenshot>	
-		<screenshot>
-			<image>settings.jpg</image>
-		</screenshot>				
-	</screenshots>
+	<screenshot>
+		<image>lockscreen.jpg</image>
+	</screenshot>	
+	<screenshot>
+		<image>settings.jpg</image>
+	</screenshot>				
     <links>
 		<link>
 			<name>Github</name>
 			<url>https://github.com/AlexBurneikis/CustomCarrier15</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
 </package>
