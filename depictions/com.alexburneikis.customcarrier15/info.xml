@@ -1,5 +1,5 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.alexburneikis.customcarrier15</id>
 	<name>Custom Carrier 15</name>
 	<version>1.0.1</version>
 	<compatibility>
@@ -13,7 +13,7 @@
 	</dependencies>
 	<shortDescription>A tweak to change Carrier Display</shortDescription>
 	<descriptionlist>
-		Two settings are included: Enabled(toggle) and Carrier Text(input)
+		<description>Two settings are included: Enabled(toggle) and Carrier Text(input)</description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
