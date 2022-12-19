@@ -12,17 +12,22 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<shortDescription>A tweak to change Carrier Display</shortDescription>
-	<screenshot>
-		<image>lockscreen.jpg</image>
-	</screenshot>	
-	<screenshot>
-		<image>settings.jpg</image>
-	</screenshot>				
+	<descriptionlist>
+		Two settings are included: Enabled(toggle) and Carrier Text(input)
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+			<image>lockscreen.jpg</image>
+		</screenshot>	
+		<screenshot>
+			<image>settings.jpg</image>
+		</screenshot>				
+	</screenshots>
     <links>
 		<link>
 			<name>Github</name>
 			<url>https://github.com/AlexBurneikis/CustomCarrier15</url>
-			<iconclass>fa fa-github</iconclass>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
