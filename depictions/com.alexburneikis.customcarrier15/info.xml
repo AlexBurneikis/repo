@@ -13,7 +13,13 @@
 	</dependencies>
 	<shortDescription>Changes carrier text.</shortDescription>
 	<descriptionlist>
-		<description>Two settings are included: Enabled(toggle) and Carrier Text(input)</description>
+		<description>
+			Two settings are included:
+			<ul>
+				<li>Enabled (toggle)</li>
+				<li>Carrier Text (string input)</li>
+			</ul>
+		</description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
