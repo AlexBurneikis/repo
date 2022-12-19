@@ -23,6 +23,9 @@
 			<image>settings.jpg</image>
 		</screenshot>				
 	</screenshots>
+	<changelog>
+		<change>Added settings</change>
+	</changelog>
     <links>
 		<link>
 			<name>Source Code</name>
