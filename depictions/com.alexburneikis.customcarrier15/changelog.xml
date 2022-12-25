@@ -1,5 +1,7 @@
 <changelog>
     <changes>
+		<version>1.4.0</version>
+		<change>added option for 3 length cellular</change>
 		<version>1.3.0</version>
 		<change>added check for "%" and "◀︎"</change>
 		<version>1.2.0</version>
