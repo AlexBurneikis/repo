@@ -1,5 +1,7 @@
 <changelog>
     <changes>
+		<version>1.4.2</version>
+		<change>added 5 length carrier</change>
 		<version>1.4.1</version>
 		<change>added 4 length carrier</change>
 		<version>1.4.0</version>
