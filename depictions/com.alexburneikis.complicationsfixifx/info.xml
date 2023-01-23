@@ -1,0 +1,28 @@
+<package>
+	<id>com.alexburneikis.complicationsfixfix</id>
+	<name>Complications Fix Fix</name>
+	<version>1.4.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<maxOs>15.1.1</maxOs>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Fixes complications mediaplayer bug</shortDescription>
+	<descriptionlist>
+		<description>Requires: original complications tweak, icraze's complicationsfix</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+    <links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/AlexBurneikis/ComplicationsFixFix</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
