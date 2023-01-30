@@ -1,7 +1,7 @@
 <package>
-	<id>com.alexburneikis.complicationsfixfix</id>
-	<name>Complications Fix Fix</name>
-	<version>1.4.2</version>
+	<id>com.alexburneikis.haptickeys</id>
+	<name>Haptic Keys 15</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>15.0</miniOS>
@@ -11,9 +11,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Fixes complications mediaplayer bug</shortDescription>
+	<shortDescription>Adds haptic feedback on key presses</shortDescription>
 	<descriptionlist>
-		<description>Requires: original complications tweak, icraze's complicationsfix</description>
+		<description>Thanks to litten for fixing my stupid</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial Release</change>
@@ -21,7 +21,7 @@
     <links>
 		<link>
 			<name>Source Code</name>
-			<url>https://github.com/AlexBurneikis/ComplicationsFixFix</url>
+			<url>https://github.com/AlexBurneikis/haptickeys15</url>
 			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
