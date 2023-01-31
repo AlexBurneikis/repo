@@ -1,5 +1,7 @@
 <changelog>
     <changes>
+		<version>1.5.1</version>
+		<change>fixed preferences</change>
 		<version>1.5.0</version>
 		<change>simplified</change>
 		<version>1.4.2</version>
